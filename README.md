@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**fariasmadu/fariasmadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Maria Eduarda e sou estudante de Ciência da Computação, apaixonada por tecnologia e desenvolvimento de software.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e conhecimentos
+- Python
+- SQL
+- Lógica de Programação
+- Git e GitHub
+- Pacote Office
+- Suporte Técnico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estudando
+- Desenvolvimento Back-end
+- Python
+- Banco de Dados
+
+## 🎯 Objetivo
+Busco uma oportunidade de estágio ou posição júnior na área de desenvolvimento para evoluir profissionalmente e contribuir com soluções tecnológicas.
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/maria-eduarda-farias
+- Email: madufarias31@gmail.com
